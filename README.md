@@ -61,7 +61,7 @@ In the following, I am using the vine data frame to determine if there is any bi
 
 ![res11](/img/fig11.png?raw=true)
 
-I cannot analyze any paid reviews since there were very little of them in this data set.
+Notice that all reviews are unpaid. I cannot analyze any paid reviews since there were very little of them in this data set.
 
 ## Summary
 In this project, I looked at the book reviews from amazon. Due to lack of data, I cannot effectively investigate the effect of bias from the paid reviewers in their voting.  
