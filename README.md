@@ -53,7 +53,7 @@ In the following, I am using the vine data frame to determine if there is any bi
 
 ![res9](/img/fig9.png?raw=true)
 
--	4. All the remaining reviews are unpaid! (See the image below)
+-	4. All the remaining reviews are unpaid! (total of 403807)(See the image below)
 
 ![res10](/img/fig10.png?raw=true)
 
@@ -61,7 +61,7 @@ In the following, I am using the vine data frame to determine if there is any bi
 
 ![res11](/img/fig11.png?raw=true)
 
-Notice that all reviews are unpaid. I cannot analyze any paid reviews since there were very little of them in this data set.
+According to this data (242889/403807*100=%60) of the unpaid reviewes are 5 star. I cannot analyze any paid reviews since there were very little of them in this data set.
 
 ## Summary
 In this project, I looked at the book reviews from amazon. Due to lack of data, I cannot effectively investigate the effect of bias from the paid reviewers in their voting.  
